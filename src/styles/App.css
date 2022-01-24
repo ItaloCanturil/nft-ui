@@ -1,7 +1,6 @@
 .App {
   height: 100vh;
   background-color: #0d1116;
-  overflow: scroll;
   text-align: center;
 }
 
@@ -87,6 +86,10 @@
   color: white;
   font-size: 16px;
   font-weight: bold;
+}
+
+.twitter-person {
+  margin-left: 3px;
 }
 
 /* KeyFrames */
